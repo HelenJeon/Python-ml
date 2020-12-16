@@ -2,4 +2,3 @@
 
 아나콘다 https://www.anaconda.com
 
-.
